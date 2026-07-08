@@ -1,0 +1,6 @@
+{
+  "name": "AI Craft Studio",
+  "description": "High-ticket AI Automation & Web Development Agency digital hub and client intake application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
